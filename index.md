@@ -198,41 +198,25 @@
     height: 100%;
   }
 }
-
-.audio-player {
-  display: flex;
-  justify-content: center;
-  margin: 1.5rem 0;
-}
-
-.audio-player audio {
-  width: min(100%, 480px);
-}
 </style>
 
 # Вверх вдоль Яузы к Ботаническому саду, ВДНХ, Останкино
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/1.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/1.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 ## Если пройтись по маршруту:
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/2.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/2.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 ### Дорога к Яузе
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/3.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/3.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_084823.jpg" alt="">
@@ -243,11 +227,9 @@
 
 ### Долина Яузы
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/4.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/4.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_091808.jpg" alt="">
@@ -257,11 +239,9 @@
 
 #### [Парк Акведук](https://yandex.com/maps/-/CPWFeT9W)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/5.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/5.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_093226.jpg" alt="">
@@ -281,11 +261,9 @@
 
 #### [Парк спорта Яуза](https://yandex.com/maps/-/CPWFe8KO)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/6.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/6.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_095947.jpg" alt="">
@@ -296,11 +274,9 @@
 
 #### [Парк "Сад будущего"](https://yandex.com/maps/-/CPWFq2Na)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/7.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/7.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_101327.jpg" alt="">
@@ -323,11 +299,9 @@
 
 #### [Парк Хуамин](https://yandex.com/maps/-/CPWFyF4p)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/8.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/8.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_113353.jpg" alt="">
@@ -357,11 +331,9 @@
 
 ### Путь к Ботаническому саду
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/9.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/9.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_124329.jpg" alt="">
@@ -370,11 +342,9 @@
 
 ### [Ботанический сад](https://yandex.com/maps/-/CPWFyDix)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/10.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/10.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_130155.jpg" alt="" data-caption-html='Закрытая <a href="https://yandex.com/maps/-/CPWfF0pk">Экспозиция культурных растений</a>'>
@@ -406,11 +376,9 @@
 
 #### [Японский сад](https://yandex.com/maps/-/CPWJnDO-)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/11.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/11.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_130353.jpg" alt="">
@@ -429,11 +397,9 @@
 
 ### [ВДНХ](https://yandex.com/maps/-/CPWF565O)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/12.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/12.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_153459.jpg" alt="">
@@ -458,11 +424,9 @@
 
 ### [Рабочий и колхозница](https://yandex.com/maps/-/CPWFBJzC)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/13.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/13.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <figure>
   <center>
@@ -472,11 +436,9 @@
 
 ### [Космопарк](https://yandex.com/maps/-/CPWFB-nI)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/14.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/14.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_180306.jpg" alt="">
@@ -491,11 +453,9 @@
 
 ### [Останкинский парк](https://yandex.com/maps/-/CPWFFNNG)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/15.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/15.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_183524.jpg" alt="">
@@ -508,11 +468,9 @@
 
 ### Возвращение на ВДНХ
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/16.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/16.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_194223.jpg" alt="" data-caption-html='<a href="https://yandex.com/maps/-/CPWjIZMQ">Зелёный лабиринт</a> снаружи'>
@@ -527,11 +485,9 @@
 
 #### [Воздушная экотропа](https://yandex.com/maps/-/CPWfzE3i)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/17.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/17.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_192936.jpg" alt="">
@@ -541,11 +497,9 @@
 
 #### [Лента Мёбиуса](https://yandex.com/maps/-/CPWfzMkn)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/18.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/18.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_195744.jpg" alt="">
@@ -558,11 +512,9 @@
 
 ### [Останкинская башня](https://yandex.com/maps/-/CPWFFTjP)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/19.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/19.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_183110.jpg" alt="" data-caption="Останкинская башня пока ещё Солнце не село">
@@ -576,11 +528,9 @@
 
 ### [Галерея звёзд](https://yandex.com/maps/-/CPWjMPzx)
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/20.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/20.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_211102.jpg" alt="">
@@ -603,14 +553,15 @@
 
 ## Послесловие
 
-<div class="audio-player">
-  <audio controls preload="metadata">
-    <source src="audio/21.ogg" nonetype="audio/ogg">
-  </audio>
-</div>
+<audio controls preload="none">
+  <source src="audio/21.ogg" type='audio/ogg; codecs="opus"'>
+</audio>
 
 <script>
 (function () {
+  var PRELOAD_MARGIN = 900;
+  var IMAGE_PRELOAD_RADIUS = 1;
+
   function isMedia(node) {
     return node instanceof HTMLElement &&
       (
@@ -620,62 +571,173 @@
       );
   }
 
-  function stopOtherVideos(mediaNodes, activeIndex) {
-    mediaNodes.forEach(function (node, i) {
-      if (node.tagName === 'VIDEO' && i !== activeIndex) {
-        node.pause();
-      }
-    });
+  function isNearViewport(el) {
+    var rect = el.getBoundingClientRect();
+    var vh = window.innerHeight || document.documentElement.clientHeight;
+
+    return rect.bottom >= -PRELOAD_MARGIN &&
+      rect.top <= vh + PRELOAD_MARGIN;
   }
 
-  function syncIframes(mediaNodes, activeIndex) {
-    mediaNodes.forEach(function (node, i) {
-      if (node.tagName !== 'IFRAME') return;
+  function rememberSrc(node) {
+    if (node.tagName === 'IMG' || node.tagName === 'IFRAME') {
+      var src = node.getAttribute('src') || node.getAttribute('data-src') || '';
 
-      var originalSrc = node.dataset.uOriginalSrc || '';
+      if (src && !node.dataset.uSrc) {
+        node.dataset.uSrc = src;
+      }
+    }
 
-      if (!originalSrc && node.getAttribute('src')) {
-        originalSrc = node.getAttribute('src');
-        node.dataset.uOriginalSrc = originalSrc;
+    if (node.tagName === 'VIDEO') {
+      var videoSrc = node.getAttribute('src') || node.getAttribute('data-src') || '';
+
+      if (videoSrc && !node.dataset.uSrc) {
+        node.dataset.uSrc = videoSrc;
       }
 
-      if (i === activeIndex) {
-        if (originalSrc && node.getAttribute('src') !== originalSrc) {
-          node.setAttribute('src', originalSrc);
+      Array.from(node.querySelectorAll('source')).forEach(function (source) {
+        var sourceSrc = source.getAttribute('src') || source.getAttribute('data-src') || '';
+
+        if (sourceSrc && !source.dataset.uSrc) {
+          source.dataset.uSrc = sourceSrc;
         }
-      } else {
-        if (node.getAttribute('src')) {
-          node.setAttribute('src', '');
-        }
-      }
-    });
+      });
+    }
   }
 
-  function prepareMediaAttributes(mediaNodes) {
-    mediaNodes.forEach(function (node, i) {
-      var isFirst = i === 0;
+  function hasLoadedImage(img) {
+    return img.dataset.uLoaded === 'true' ||
+      (img.complete && img.naturalWidth > 0);
+  }
+
+  function loadMedia(node, important) {
+    if (node.tagName === 'IMG') {
+      var imgSrc = node.dataset.uSrc || node.getAttribute('data-src') || '';
+
+      node.setAttribute('loading', important ? 'eager' : 'lazy');
+      node.setAttribute('decoding', 'async');
+      node.setAttribute('fetchpriority', important ? 'high' : 'low');
+
+      if (imgSrc && node.getAttribute('src') !== imgSrc) {
+        node.setAttribute('src', imgSrc);
+      }
+    }
+
+    if (node.tagName === 'VIDEO') {
+      var changed = false;
+      var videoSrc = node.dataset.uSrc || node.getAttribute('data-src') || '';
+
+      node.setAttribute('preload', 'none');
+      node.setAttribute('playsinline', '');
+      node.setAttribute('webkit-playsinline', '');
+
+      if (videoSrc && node.getAttribute('src') !== videoSrc) {
+        node.setAttribute('src', videoSrc);
+        changed = true;
+      }
+
+      Array.from(node.querySelectorAll('source')).forEach(function (source) {
+        var sourceSrc = source.dataset.uSrc || source.getAttribute('data-src') || '';
+
+        if (sourceSrc && source.getAttribute('src') !== sourceSrc) {
+          source.setAttribute('src', sourceSrc);
+          changed = true;
+        }
+      });
+
+      if (changed) {
+        node.load();
+      }
+    }
+
+    if (node.tagName === 'IFRAME') {
+      var iframeSrc = node.dataset.uSrc || node.getAttribute('data-src') || '';
+
+      node.setAttribute('loading', important ? 'eager' : 'lazy');
+
+      if (!node.hasAttribute('allowfullscreen')) {
+        node.setAttribute('allowfullscreen', '');
+      }
+
+      if (!node.hasAttribute('referrerpolicy')) {
+        node.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+      }
+
+      if (!node.hasAttribute('allow')) {
+        node.setAttribute('allow', 'autoplay; fullscreen');
+      }
+
+      if (iframeSrc && node.getAttribute('src') !== iframeSrc) {
+        node.setAttribute('src', iframeSrc);
+      }
+    }
+  }
+
+  function unloadMedia(node) {
+    rememberSrc(node);
+
+    if (node.tagName === 'IMG') {
+      node.setAttribute('loading', 'lazy');
+      node.setAttribute('decoding', 'async');
+      node.setAttribute('fetchpriority', 'low');
+
+      if (hasLoadedImage(node)) {
+        node.dataset.uLoaded = 'true';
+        return;
+      }
+
+      if (node.getAttribute('src')) {
+        node.removeAttribute('src');
+      }
+    }
+
+    if (node.tagName === 'VIDEO') {
+      node.pause();
+
+      var changed = false;
+
+      if (node.getAttribute('src')) {
+        node.removeAttribute('src');
+        changed = true;
+      }
+
+      Array.from(node.querySelectorAll('source')).forEach(function (source) {
+        if (source.getAttribute('src')) {
+          source.removeAttribute('src');
+          changed = true;
+        }
+      });
+
+      if (changed) {
+        node.load();
+      }
+    }
+
+    if (node.tagName === 'IFRAME') {
+      if (node.getAttribute('src')) {
+        node.removeAttribute('src');
+      }
+
+      node.setAttribute('loading', 'lazy');
+    }
+  }
+
+  function prepareMedia(mediaNodes) {
+    mediaNodes.forEach(function (node) {
+      rememberSrc(node);
 
       if (node.tagName === 'IMG') {
         if (!node.hasAttribute('alt')) {
           node.setAttribute('alt', '');
         }
 
-        if (isFirst) {
-          if (!node.hasAttribute('loading')) {
-            node.setAttribute('loading', 'eager');
-          }
+        node.setAttribute('loading', 'lazy');
+        node.setAttribute('decoding', 'async');
+        node.setAttribute('fetchpriority', 'low');
 
-          if (!node.hasAttribute('fetchpriority')) {
-            node.setAttribute('fetchpriority', 'high');
-          }
-        } else {
-          node.setAttribute('loading', 'lazy');
-          node.setAttribute('decoding', 'async');
-
-          if (!node.hasAttribute('fetchpriority')) {
-            node.setAttribute('fetchpriority', 'low');
-          }
-        }
+        node.addEventListener('load', function () {
+          node.dataset.uLoaded = 'true';
+        });
       }
 
       if (node.tagName === 'VIDEO') {
@@ -685,13 +747,7 @@
       }
 
       if (node.tagName === 'IFRAME') {
-        if (isFirst) {
-          if (!node.hasAttribute('loading')) {
-            node.setAttribute('loading', 'eager');
-          }
-        } else {
-          node.setAttribute('loading', 'lazy');
-        }
+        node.setAttribute('loading', 'lazy');
 
         if (!node.hasAttribute('allowfullscreen')) {
           node.setAttribute('allowfullscreen', '');
@@ -704,11 +760,9 @@
         if (!node.hasAttribute('allow')) {
           node.setAttribute('allow', 'autoplay; fullscreen');
         }
-
-        if (node.getAttribute('src')) {
-          node.dataset.uOriginalSrc = node.getAttribute('src');
-        }
       }
+
+      unloadMedia(node);
     });
   }
 
@@ -720,7 +774,7 @@
 
     var mediaNodes = sourceNodes;
 
-    prepareMediaAttributes(mediaNodes);
+    prepareMedia(mediaNodes);
 
     root.replaceChildren();
 
@@ -806,18 +860,38 @@
     var index = 0;
 
     function update() {
+      var near = root.dataset.uNearViewport === 'true' || isNearViewport(root);
+
       items.forEach(function (item, i) {
         var active = i === index;
+
         item.wrap.classList.toggle('is-active', active);
         item.thumb.classList.toggle('is-active', active);
       });
 
-      var allMedia = items.map(function (item) {
-        return item.media;
-      });
+      items.forEach(function (item, i) {
+        var media = item.media;
+        var active = i === index;
+        var shouldLoad = false;
 
-      stopOtherVideos(allMedia, index);
-      syncIframes(allMedia, index);
+        if (near && active) {
+          shouldLoad = true;
+        }
+
+        if (
+          near &&
+          media.tagName === 'IMG' &&
+          Math.abs(i - index) <= IMAGE_PRELOAD_RADIUS
+        ) {
+          shouldLoad = true;
+        }
+
+        if (shouldLoad) {
+          loadMedia(media, active);
+        } else {
+          unloadMedia(media);
+        }
+      });
 
       counter.textContent = (index + 1) + ' / ' + items.length;
 
@@ -861,12 +935,54 @@
       }
     });
 
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          root.dataset.uNearViewport = entry.isIntersecting ? 'true' : 'false';
+          update();
+        });
+      }, {
+        root: null,
+        rootMargin: PRELOAD_MARGIN + 'px 0px',
+        threshold: 0
+      });
+
+      observer.observe(root);
+    } else {
+      root.dataset.uNearViewport = 'true';
+    }
+
     root.dataset.uCarouselReady = 'true';
     update();
   }
 
+  function prepareAudioPlayers() {
+    document.querySelectorAll('audio').forEach(function (audio) {
+      function warmupAudio() {
+        if (audio.dataset.uAudioWarmup === 'true') return;
+
+        audio.preload = 'metadata';
+        audio.load();
+        audio.dataset.uAudioWarmup = 'true';
+      }
+
+      audio.addEventListener('pointerenter', warmupAudio, { once: true });
+      audio.addEventListener('focus', warmupAudio, { once: true });
+      audio.addEventListener('touchstart', warmupAudio, { once: true, passive: true });
+
+      audio.addEventListener('play', function () {
+        document.querySelectorAll('video').forEach(function (video) {
+          if (!video.paused) {
+            video.pause();
+          }
+        });
+      });
+    });
+  }
+
   function initAll() {
     document.querySelectorAll('[data-u-carousel]').forEach(buildCarousel);
+    prepareAudioPlayers();
   }
 
   if (document.readyState === 'loading') {
