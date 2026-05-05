@@ -212,9 +212,27 @@
 
 # Вверх вдоль Яузы к Ботаническому саду, ВДНХ, Останкино
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/1.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 ## Если пройтись по маршруту:
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/2.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 ### Дорога к Яузе
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/3.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_084823.jpg" alt="">
@@ -225,6 +243,12 @@
 
 ### Долина Яузы
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/4.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_091808.jpg" alt="">
   <img src="img/PANO_20260501_092807.jpg" alt="">
@@ -232,6 +256,12 @@
 </div>
 
 #### [Парк Акведук](https://yandex.com/maps/-/CPWFeT9W)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/5.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_093226.jpg" alt="">
@@ -251,6 +281,12 @@
 
 #### [Парк спорта Яуза](https://yandex.com/maps/-/CPWFe8KO)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/6.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_095947.jpg" alt="">
   <img src="img/PANO_20260501_100143.jpg" alt="">
@@ -259,6 +295,12 @@
 </div>
 
 #### [Парк "Сад будущего"](https://yandex.com/maps/-/CPWFq2Na)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/7.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_101327.jpg" alt="">
@@ -280,6 +322,12 @@
 </div>
 
 #### [Парк Хуамин](https://yandex.com/maps/-/CPWFyF4p)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/8.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_113353.jpg" alt="">
@@ -309,12 +357,24 @@
 
 ### Путь к Ботаническому саду
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/9.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_124329.jpg" alt="">
   <img src="img/PANO_20260501_125031.jpg" alt="">
 </div>
 
 ### [Ботанический сад](https://yandex.com/maps/-/CPWFyDix)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/10.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_130155.jpg" alt="" data-caption-html='Закрытая <a href="https://yandex.com/maps/-/CPWfF0pk">Экспозиция культурных растений</a>'>
@@ -346,6 +406,12 @@
 
 #### [Японский сад](https://yandex.com/maps/-/CPWJnDO-)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/11.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_130353.jpg" alt="">
   <img src="img/PANO_20260501_130641.jpg" alt="">
@@ -362,6 +428,12 @@
 </div>
 
 ### [ВДНХ](https://yandex.com/maps/-/CPWF565O)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/12.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_153459.jpg" alt="">
@@ -386,6 +458,12 @@
 
 ### [Рабочий и колхозница](https://yandex.com/maps/-/CPWFBJzC)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/13.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <figure>
   <center>
     <img src="img/IMG_20260501_172806.jpg"/>
@@ -393,6 +471,12 @@
 </figure>
 
 ### [Космопарк](https://yandex.com/maps/-/CPWFB-nI)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/14.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_180306.jpg" alt="">
@@ -407,6 +491,12 @@
 
 ### [Останкинский парк](https://yandex.com/maps/-/CPWFFNNG)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/15.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_183524.jpg" alt="">
   <img src="img/PANO_20260501_183813.jpg" alt="">
@@ -417,6 +507,12 @@
 </div>
 
 ### Возвращение на ВДНХ
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/16.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_194223.jpg" alt="" data-caption-html='<a href="https://yandex.com/maps/-/CPWjIZMQ">Зелёный лабиринт</a> снаружи'>
@@ -431,6 +527,12 @@
 
 #### [Воздушная экотропа](https://yandex.com/maps/-/CPWfzE3i)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/17.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_192936.jpg" alt="">
   <img src="img/PANO_20260501_193321.jpg" alt="">
@@ -438,6 +540,12 @@
 </div>
 
 #### [Лента Мёбиуса](https://yandex.com/maps/-/CPWfzMkn)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/18.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_195744.jpg" alt="">
@@ -450,6 +558,12 @@
 
 ### [Останкинская башня](https://yandex.com/maps/-/CPWFFTjP)
 
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/19.ogg" type="audio/mpeg">
+  </audio>
+</div>
+
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_183110.jpg" alt="" data-caption="Останкинская башня пока ещё Солнце не село">
   <img src="img/IMG_20260501_210151.jpg" alt="">
@@ -461,6 +575,12 @@
 </div>
 
 ### [Галерея звёзд](https://yandex.com/maps/-/CPWjMPzx)
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/20.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/IMG_20260501_211102.jpg" alt="">
@@ -480,6 +600,12 @@
 <!-- Вставить маршрут -->
 
 ## Послесловие
+
+<div class="audio-player">
+  <audio controls preload="metadata">
+    <source src="audio/21.ogg" type="audio/mpeg">
+  </audio>
+</div>
 
 <script>
 (function () {
