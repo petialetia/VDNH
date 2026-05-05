@@ -213,7 +213,7 @@
 # Вверх вдоль Яузы к Ботаническому саду, ВДНХ, Останкино
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/1.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -221,7 +221,7 @@
 ## Если пройтись по маршруту:
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/2.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -229,7 +229,7 @@
 ### Дорога к Яузе
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/3.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -244,7 +244,7 @@
 ### Долина Яузы
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/4.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -258,7 +258,7 @@
 #### [Парк Акведук](https://yandex.com/maps/-/CPWFeT9W)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/5.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -282,7 +282,7 @@
 #### [Парк спорта Яуза](https://yandex.com/maps/-/CPWFe8KO)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/6.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -297,7 +297,7 @@
 #### [Парк "Сад будущего"](https://yandex.com/maps/-/CPWFq2Na)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/7.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -324,7 +324,7 @@
 #### [Парк Хуамин](https://yandex.com/maps/-/CPWFyF4p)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/8.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -358,7 +358,7 @@
 ### Путь к Ботаническому саду
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/9.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -371,7 +371,7 @@
 ### [Ботанический сад](https://yandex.com/maps/-/CPWFyDix)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/10.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -407,7 +407,7 @@
 #### [Японский сад](https://yandex.com/maps/-/CPWJnDO-)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/11.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -430,7 +430,7 @@
 ### [ВДНХ](https://yandex.com/maps/-/CPWF565O)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/12.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -459,7 +459,7 @@
 ### [Рабочий и колхозница](https://yandex.com/maps/-/CPWFBJzC)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/13.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -473,7 +473,7 @@
 ### [Космопарк](https://yandex.com/maps/-/CPWFB-nI)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/14.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -492,7 +492,7 @@
 ### [Останкинский парк](https://yandex.com/maps/-/CPWFFNNG)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/15.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -509,7 +509,7 @@
 ### Возвращение на ВДНХ
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/16.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -528,7 +528,7 @@
 #### [Воздушная экотропа](https://yandex.com/maps/-/CPWfzE3i)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/17.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -542,7 +542,7 @@
 #### [Лента Мёбиуса](https://yandex.com/maps/-/CPWfzMkn)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/18.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -559,7 +559,7 @@
 ### [Останкинская башня](https://yandex.com/maps/-/CPWFFTjP)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/19.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -577,7 +577,7 @@
 ### [Галерея звёзд](https://yandex.com/maps/-/CPWjMPzx)
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/20.ogg" type="audio/mpeg">
   </audio>
 </div>
@@ -604,7 +604,7 @@
 ## Послесловие
 
 <div class="audio-player">
-  <audio controls preload="metadata">
+  <audio controls preload="none">
     <source src="audio/21.ogg" type="audio/mpeg">
   </audio>
 </div>
