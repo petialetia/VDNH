@@ -252,7 +252,7 @@
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_091808.jpg" alt="">
   <img src="img/PANO_20260501_092807.jpg" alt="">
-  <video src="img/VID_20260501_092944.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_092944.mp4" controls preload="none"></video>
 </div>
 
 #### [Парк Акведук](https://yandex.com/maps/-/CPWFeT9W)
@@ -305,15 +305,15 @@
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260501_101327.jpg" alt="">
   <img src="img/PANO_20260501_101558.jpg" alt="" data-caption="На противоположном берегу можете разглядеть гусей">
-  <video src="img/VID_20260501_101808.mp4" controls preload="metadata"></video>
-  <video src="img/VID_20260501_101937.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_101808.mp4" controls preload="none"></video>
+  <video src="img/VID_20260501_101937.mp4" controls preload="none"></video>
   <iframe
     src="https://drive.google.com/file/d/1KpI335ppO-Y3RQxHRzPbxO2_EfQsPllF/preview"
     allow="autoplay; fullscreen"
     allowfullscreen>
   </iframe>
-  <video src="img/VID_20260501_102348.mp4" controls preload="metadata"></video>
-  <video src="img/VID_20260501_104149.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_102348.mp4" controls preload="none"></video>
+  <video src="img/VID_20260501_104149.mp4" controls preload="none"></video>
   <img src="img/PANO_20260501_111548.jpg" alt="">
   <img src="img/PANO_20260501_111627.jpg" alt="">
   <img src="img/PANO_20260501_111837.jpg" alt="">
@@ -341,7 +341,7 @@
   <img src="img/PANO_20260501_115401.jpg" alt="">
   <img src="img/PANO_20260501_115834.jpg" alt="">
   <img src="img/PANO_20260501_120343.jpg" alt="">
-  <video src="img/VID_20260501_120435.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_120435.mp4" controls preload="none"></video>
   <img src="img/PANO_20260501_120506.jpg" alt="">
   <img src="img/PANO_20260501_120644.jpg" alt="">
   <img src="img/PANO_20260501_120914.jpg" alt="">
@@ -381,7 +381,7 @@
   <img src="img/PANO_20260501_131026.jpg" alt="">
   <img src="img/PANO_20260501_131753.jpg" alt="">
   <img src="img/IMG_20260501_134048.jpg" alt="" data-caption="Вот такие деревья водятся тут">
-  <video src="img/VID_20260501_134920.mp4" controls preload="metadata" data-caption="И вот такие кряклы ходят"></video>
+  <video src="img/VID_20260501_134920.mp4" controls preload="none" data-caption="И вот такие кряклы ходят"></video>
   <img src="img/PANO_20260501_135912.jpg" alt="">
   <img src="img/PANO_20260501_140150.jpg" alt="">
   <img src="img/PANO_20260501_140348.jpg" alt="">
@@ -390,14 +390,14 @@
   <img src="img/PANO_20260501_142835.jpg" alt="">
   <img src="img/PANO_20260501_142903.jpg" alt="">
   <img src="img/PANO_20260501_143454.jpg" alt="">
-  <video src="img/VID_20260501_143705.mp4" controls preload="metadata" data-caption="Конная полиция, жандармы!"></video>
+  <video src="img/VID_20260501_143705.mp4" controls preload="none" data-caption="Конная полиция, жандармы!"></video>
   <img src="img/PANO_20260501_143925.jpg" alt="" data-caption-html='Закрытый <a href="https://yandex.com/maps/-/CPWfJ43I">Розарий</a>'>
   <img src="img/PANO_20260501_144114.jpg" alt="">
   <img src="img/PANO_20260501_144454.jpg" alt="">
   <img src="img/PANO_20260501_144540.jpg" alt="">
   <img src="img/PANO_20260501_152243.jpg" alt="">
   <img src="img/PANO_20260501_152721.jpg" alt="">
-  <video src="img/VID_20260501_152752.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_152752.mp4" controls preload="none"></video>
   <img src="img/PANO_20260501_155248.jpg" alt="">
   <img src="img/PANO_20260501_155325.jpg" alt="">
   <img src="img/PANO_20260501_160213.jpg" alt="" data-caption="Очередной спойлер">
@@ -424,7 +424,7 @@
   <img src="img/PANO_20260501_133425.jpg" alt="">
   <img src="img/IMG_20260501_133515.jpg" alt="">
   <img src="img/PANO_20260501_133538.jpg" alt="">
-  <video src="img/VID_20260501_133626.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_133626.mp4" controls preload="none"></video>
 </div>
 
 ### [ВДНХ](https://yandex.com/maps/-/CPWF565O)
@@ -439,7 +439,7 @@
   <img src="img/PANO_20260501_153459.jpg" alt="">
   <img src="img/PANO_20260501_153735.jpg" alt="">
   <img src="img/PANO_20260501_154231.jpg" alt="">
-  <video src="img/VID_20260501_160832.mp4" controls preload="metadata"></video>
+  <video src="img/VID_20260501_160832.mp4" controls preload="none"></video>
   <img src="img/PANO_20260501_161338.jpg" alt="" data-caption-html='<a href="https://yandex.com/maps/-/CPWfrM74">Лабиринт</a>'>
   <img src="img/PANO_20260501_163647.jpg" alt="">
   <img src="img/IMG_20260501_163732.jpg" alt="">
@@ -662,7 +662,7 @@
     mediaNodes.forEach(function (node) {
       if (node.tagName === 'VIDEO') {
         if (!node.hasAttribute('preload')) {
-          node.setAttribute('preload', 'metadata');
+          node.setAttribute('preload', 'none');
         }
         node.setAttribute('playsinline', '');
         node.setAttribute('webkit-playsinline', '');
